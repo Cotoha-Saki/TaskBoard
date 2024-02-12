@@ -1,0 +1,42 @@
+<!-- strings.xml -->
+<resources>
+    <string name="app_name">タスクボード+α</string>
+
+    <!-- ナビゲーションドロワーの文字列 -->
+    <string name="menu_tasks">タスク</string>
+    <string name="menu_shifts">シフト</string>
+    <string name="menu_goals">目標</string>
+    <string name="menu_pdca">PDCA</string>
+
+    <!-- ナビゲーションドロワー開閉時のアクセシビリティ説明 -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- BottomNavigationViewの文字列 -->
+    <string name="title_task">タスク</string>
+    <string name="title_shift">シフト</string>
+    <string name="title_goal">目標</string>
+    <string name="title_pdca">PDCA</string>
+
+    <string name="nav_header_title">ToDoList</string>
+
+    <string name="tasks_title">タスク一覧</string>
+    <string name="shifts_title">シフト情報</string>
+
+    <string name="action_item1">未定</string>
+
+    <string name="task_hint">タスクを入力</string>
+    <string name="detail_settings">詳細設定</string>
+
+    <string name="no_tasks">タスクがありません</string>
+
+    <string name="dr_archive">アーカイブ</string>
+    <string name="dr_bodyweight">体重記録</string>
+    <string name="dr_setting">設定</string>
+
+    <string name="hint_task_name">タスクの追加</string>
+    <string name="cancel">キャンセル</string>
+    <string name="add">追加</string>
+
+    <string name="selected_image">選択された画像</string>
+</resources>

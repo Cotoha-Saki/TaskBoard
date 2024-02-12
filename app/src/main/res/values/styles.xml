@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="LoadingTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- ここにロード画面のテーマに関する属性を指定 -->
+    </style>
+
+    <style name="AppTheme" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:statusBarColor">#78CBF0</item>
+        <item name="colorPrimary">#A9DCF1</item>
+        <item name="colorPrimaryDark">@color/gray</item> <!-- ステータスバーの色 -->
+        <item name="colorAccent">@color/status_bar_color</item>
+    </style>
+
+    <style name="CustomBottomSheetDialog" parent="Theme.Design.Light.BottomSheetDialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:backgroundDimEnabled">true</item>
+        <item name="android:windowIsFloating">false</item>
+    </style>
+
+
+</resources>
